@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafayt-05
+- 👋 Hi, I’m Abdul Rafay
 - 👀 I’m interested in coding and want to become a heavy coder
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on c programs and debugs

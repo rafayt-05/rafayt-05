@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Rafay Tariq
 
-💻 **Full Stack Developer | Python Developer | Computer Science Student**
+💻 **Full Stack Developer | Python Developer | C/C++ | Computer Science Student**
 
 I'm a Computer Science student and developer passionate about building practical software, solving problems, and continuously improving my development skills.
 
